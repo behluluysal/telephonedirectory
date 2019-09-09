@@ -1,0 +1,36 @@
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Behlül\Desktop\Ödev_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sbuys\Desktop\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sbuys\Desktop\Behlül'ün Çöplüğü\Okul\1.sınıf2.donem\NDPsunum\NDPsunum\NDPtelefonRehberi\g171210080\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
